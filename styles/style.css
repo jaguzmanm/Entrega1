@@ -1,0 +1,49 @@
+.banner {
+  background-color: #000000;
+  color: #ffffff;
+  font-variant: small-caps;
+  padding: 2%;
+}
+
+.footer {
+  background-color: #000000;
+  color: #ffffff;
+  text-align: center;
+  padding: 1%;
+}
+
+.menu {
+  padding: 2%;
+  background-color: lightyellow;
+}
+
+.section {
+    background-color: dimgrey;
+    color: #ffffff;
+    padding: 1%;
+}
+
+.subsection {
+    border-color: #000000;
+    border: 1px solid;
+    background-color: #d3d3d3;
+}
+
+img {
+  margin: 5%;
+  max-width: 250px;
+  max-height: 250px;
+}
+
+video{
+    margin: 5%;
+    max-width: 400px;
+}
+
+audio{
+    margin: 5%;
+}
+
+h3 {
+  font-size: large;
+}
